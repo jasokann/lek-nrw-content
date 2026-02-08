@@ -1,0 +1,3 @@
+[submodule "themes/lek-nrw-theme"]
+	path = themes/lek-nrw-theme
+	url = https://github.com/jasokann/lek-nrw-theme.git
