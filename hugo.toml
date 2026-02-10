@@ -124,6 +124,12 @@ home = ["HTML", "RSS"]
     weight = 200
 
   [[menu.main]]
+    name = "Stellungsnahme"
+    url = "/veroeffentlichung/stellungsnahme/"
+    parent = "Veröffentlichung"
+    weight = 201
+
+  [[menu.main]]
     name = "Pressemeldung"
     url = "/veroeffentlichung/pressemeldung/"
     parent = "Veröffentlichung"
@@ -187,8 +193,3 @@ home = ["HTML", "RSS"]
     parent = "Veröffentlichung"
     weight = 203    
   
-  [[menu.hidden]]
-    name = "Stellungsnahme"
-    url = "/veroeffentlichung/stellungsnahme/"
-    parent = "Veröffentlichung"
-    weight = 201
