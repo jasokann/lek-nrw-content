@@ -3,6 +3,7 @@ title: "Erinnern heißt Verantwortung – Schulen müssen Orte der Vielfalt blei
 description: "Im Gedenken an die Opfer des Nationalsozialismus mahnt die LEK NRW zur Verantwortung für eine demokratische Gesellschaft."
 date: 2026-01-29
 ort: Sankt Augustin
+dlpressemitteilung: "/veroeffentlichung/pressemeldungen/media/2026/2026-01-29-Pressemitteilung-LEK-zum-Gedenktag-der-Opfer-des-Nationalsozialismus.pdf"
 categories: ["Pressemitteilung"]
 tags: ["Gedenktag", "Demokratie", "Vielfalt", "Erinnerungskultur"]
 ---

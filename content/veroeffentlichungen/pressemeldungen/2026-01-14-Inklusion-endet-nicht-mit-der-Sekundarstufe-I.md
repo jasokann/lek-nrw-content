@@ -3,11 +3,12 @@ title: "Inklusion endet nicht mit der Sekundarstufe I"
 description: "Landeselternkonferenz NRW kritisiert systematisches Wegsehen bei der Sekundarstufe II"
 date: 2026-01-14
 ort: Sankt Augustin
+dlpressemitteilung: "media/2026/2026-01-14-Pressemeldung_Berichterstattung_Inklusion.pdf"
+toc: true
 weight: 20
 
 ---
 
-# Inklusion endet nicht mit der Sekundarstufe I – Landeselternkonferenz NRW kritisiert systematisches Wegsehen bei der Sekundarstufe II
 Die Landeselternkonferenz NRW (LEK-NRW) nimmt den aktuellen Bericht der Stadt Köln zur Inklusionsentwicklung an Kölner Schulen (Schuljahr 2024/25) zum Anlass, auf eine eklatante und landesweit bestehende Lücke in der Bildungsberichterstattung hinzuweisen: Weder auf kommunaler Ebene noch landesweit ist der LEK-NRW bekannt, dass vollständige Erhebungen zur Inklusion in der Sekundarstufe II und zu den Bildungswegen nach der Jahrgangsstufe 10 existieren.
 Der Kölner Bericht steht damit exemplarisch für ein strukturelles Versäumnis, das sich in nahezu allen Kommunen Nordrhein-Westfalens wiederfindet. Zwar wird die inklusive Beschulung in der Primarstufe und der Sekundarstufe I detailliert ausgewertet – doch ab dem Moment, in dem Bildungsbiografien anspruchsvoller und anscheinend politisch unbequemer werden, endet die Datenerhebung abrupt.
 „Gerade der Übergang in die Sekundarstufe II, in Ausbildung oder berufliche Bildung entscheidet darüber, ob Inklusion ein dauerhaft tragfähiges Konzept ist oder nur ein Projekt bis Klasse 10. Dass dieser Bereich systematisch ausgeblendet wird, ist kein Zufall, sondern politisch bequem“, erklärt Andreas Albrecht, stellvertretender Vorsitzender der Landeselternkonferenz NRW, seine Meinung.

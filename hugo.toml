@@ -118,21 +118,21 @@ home = ["HTML", "RSS"]
     pre = "hidden"
 
   [[menu.main]]
-    name = "Veröffentlichung"
-    url = "/veroeffentlichung/"
-    identifier = "Veröffentlichung"
+    name = "Veröffentlichungen"
+    url = "/veroeffentlichungen/"
+    identifier = "Veröffentlichungen"
     weight = 200
 
   [[menu.main]]
-    name = "Stellungsnahme"
-    url = "/veroeffentlichung/stellungsnahme/"
-    parent = "Veröffentlichung"
+    name = "Stellungsnahmen"
+    url = "/veroeffentlichungen/stellungsnahmen/"
+    parent = "Veröffentlichungen"
     weight = 201
 
   [[menu.main]]
-    name = "Pressemeldung"
-    url = "/veroeffentlichung/pressemeldung/"
-    parent = "Veröffentlichung"
+    name = "Pressemeldungen"
+    url = "/veroeffentlichungen/pressemeldungen/"
+    parent = "Veröffentlichungen"
     weight = 202 
  
   # Hauptmenüpunkt
@@ -189,7 +189,7 @@ home = ["HTML", "RSS"]
   
   [[menu.hidden]]
     name = "Offene Briefe"
-    url = "/veroeffentlichung/offene-briefe/"
-    parent = "Veröffentlichung"
+    url = "/veroeffentlichungen/offene-briefe/"
+    parent = "Veröffentlichungen"
     weight = 203    
   
